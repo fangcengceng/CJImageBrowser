@@ -2,8 +2,8 @@
 //  UIView+Additon.h
 //  SECRET
 //
-//  Created by Jessica_ios1 on 16/1/22.
-//  Copyright © 2016年 Jessica. All rights reserved.
+//  Created by J.Cheng on 16/1/22.
+//  Copyright © 2016年 J.Cheng. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

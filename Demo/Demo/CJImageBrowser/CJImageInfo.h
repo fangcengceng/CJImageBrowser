@@ -2,8 +2,8 @@
 //  CJImageInfo.h
 //  news
 //
-//  Created by 北极星电力 on 16/11/6.
-//  Copyright © 2016年 北极星电力. All rights reserved.
+//  Created by J.Cheng on 16/11/6.
+//  Copyright © 2016年 J.Cheng. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
